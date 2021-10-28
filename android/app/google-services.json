@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434470028046",
+    "project_id": "image-auth",
+    "storage_bucket": "image-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434470028046:android:1507da287b19f4bdd14d5f",
+        "android_client_info": {
+          "package_name": "com.example.student_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434470028046-2ao118vq63qeo0dicmkjn2l1ndc7n3kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4O1TyiKaiQ8qLvA_mPhjXdO0F4V1k-U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434470028046-2ao118vq63qeo0dicmkjn2l1ndc7n3kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
